@@ -2,7 +2,7 @@
 
 ## How to run
 
-```make run```
+```make run VALUE=<valor do saque>```
 
 ## How to test
 
