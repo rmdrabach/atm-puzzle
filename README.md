@@ -1,4 +1,6 @@
-# ATM
+# ATM Puzzle
+
+Coding puzzle from [DojoPuzzles](http://dojopuzzles.com/problemas/exibe/caixa-eletronico/).
 
 ## How to run
 
